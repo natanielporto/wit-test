@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "wit-forecast",
+    "slug": "wit-forecast",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
