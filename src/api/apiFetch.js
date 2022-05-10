@@ -1,8 +1,6 @@
 import axios from "axios";
 
 const BASE_URL = "http://dataservice.accuweather.com";
-const KEY = "ezw31vfGLHUxMrmm1Gqv1bSCnFjLDNRL";
-// const KEY = "klMPs6PRmiHPyAGjgFZOY6xcAWN1daxh";
 
 export async function forecastFetch(key) {
   try {
